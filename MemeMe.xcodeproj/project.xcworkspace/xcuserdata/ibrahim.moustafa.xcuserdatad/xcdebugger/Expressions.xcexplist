@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MemeEditorViewController.viewDidLoad() -&gt; ():MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memeIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeColectionViewController.setMemesSpacing(CGSize) -&gt; ():MemeColectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "flowLayout">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.tableView(UITableView, commitEditingStyle : UITableViewCellEditingStyle, forRowAtIndexPath : NSIndexPath) -&gt; ():MemeTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeDetailViewcontroller.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():MemeDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memeIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:MemeTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.memes.getter:MemeTableViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
